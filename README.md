@@ -53,3 +53,4 @@ password: userpass
 # NEWS-BUZZ
 # NEWS-BUZZ
 # NEWS-BUZZ
+# cms
